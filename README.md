@@ -1,16 +1,19 @@
+<div align="center">
+
+<img src="assets/cover.webp" width="100%" alt="Trevsi">
+
 # Trevsi
 
-> A private photo game for friends traveling together.
-
-**Status:** In development. The core loop is built end to end; a closed beta on Google Play is next.
-**Platforms:** Android and web (iOS in testing)
-
-![Trevsi](assets/banner.svg)
+**A private photo game for friends traveling together.**
 
 <p>
-  [![Status](https://img.shields.io/badge/status-in%20development-7395ae?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
-  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+  <img src="https://img.shields.io/badge/status-in%20development-7395ae?style=flat-square&labelColor=0c0d0f" alt="Status: in development">
+  <a href="https://ignaciomoralesdev.vercel.app"><img src="https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f" alt="Portfolio"></a>
 </p>
+
+<p><sub>Android and web · iOS in testing</sub></p>
+
+</div>
 
 ## What it is
 
