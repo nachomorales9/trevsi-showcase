@@ -5,7 +5,12 @@
 **Status:** In development. The core loop is built end to end; a closed beta on Google Play is next.
 **Platforms:** Android and web (iOS in testing)
 
-![Trevsi](assets/cover.webp)
+![Trevsi](assets/banner.svg)
+
+<p>
+  [![Status](https://img.shields.io/badge/status-in%20development-7395ae?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+</p>
 
 ## What it is
 

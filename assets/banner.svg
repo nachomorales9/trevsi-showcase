@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Trevsi">
+  <defs>
+    <radialGradient id="g" cx="8%" cy="130%" r="60%"><stop offset="0" stop-color="#4fb8a1" stop-opacity="0.16"/><stop offset="1" stop-color="#4fb8a1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="h" cx="95%" cy="-20%" r="55%"><stop offset="0" stop-color="#7395ae" stop-opacity="0.14"/><stop offset="1" stop-color="#7395ae" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="#0c0d0f"/>
+  <rect width="1280" height="340" rx="18" fill="url(#g)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#h)"/>
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#b1a296">
+    <text x="56" y="64">MOBILE APP · OWN PRODUCT</text>
+  </g>
+  <line x1="56" y1="86" x2="1224" y2="86" stroke="#ece6df" stroke-opacity="0.12"/>
+  <circle cx="61" cy="124" r="4" fill="#7395ae">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="76" y="129" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#7395ae">IN DEVELOPMENT</text>
+  <text x="52" y="222" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="104" letter-spacing="-2" fill="#ece6df">TREVSI</text>
+  <text x="56" y="270" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#ece6df" fill-opacity="0.7">A private photo game for friends traveling together.</text>
+  <text x="56" y="310" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" letter-spacing="1.5" fill="#b1a296">REACT NATIVE · EXPO · SUPABASE · CLOUDFLARE R2</text>
+</svg>
