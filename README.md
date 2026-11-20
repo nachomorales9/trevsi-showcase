@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cover.webp" width="100%" alt="Trevsi">
+<a href="https://trevsi.pages.dev"><img src="assets/cover.webp" width="100%" alt="Trevsi landing page: three app screens with the daily challenge, the group photos and the vote"></a>
 
 # Trevsi
 
@@ -8,6 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/status-in%20development-7395ae?style=flat-square&labelColor=0c0d0f" alt="Status: in development">
+  <a href="https://trevsi.pages.dev"><img src="https://img.shields.io/badge/website-trevsi.pages.dev-4fb8a1?style=flat-square&labelColor=0c0d0f" alt="Website"></a>
   <a href="https://ignaciomoralesdev.vercel.app"><img src="https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f" alt="Portfolio"></a>
 </p>
 
